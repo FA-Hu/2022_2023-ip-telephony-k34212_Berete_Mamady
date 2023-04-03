@@ -44,5 +44,6 @@ Lab: Lab1
 ![image](https://user-images.githubusercontent.com/61075142/229511467-5f681928-067a-4e0e-8cac-b87f02e91ae0.png)
 
 Чтобы изменять конфигурации устройст через терминал, необходимо зайти в привелигерованный режим:
-Router>enable
-Router#config terminal
+
+                                                                 Router>enable
+                                                                 Router#config terminal
