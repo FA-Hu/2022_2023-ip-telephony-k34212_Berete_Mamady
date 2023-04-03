@@ -1,0 +1,38 @@
+<mxfile host="app.diagrams.net" modified="2023-04-03T11:39:46.462Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="baS6hUbx3PBkAGp1h6lf" version="21.1.4" type="device">
+  <diagram name="Page-1" id="v6a27eblVjUr2FHTdE27">
+    <mxGraphModel dx="954" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sAgPlpKkdEd6SYgPMzGw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sAgPlpKkdEd6SYgPMzGw-3" target="sAgPlpKkdEd6SYgPMzGw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sAgPlpKkdEd6SYgPMzGw-3" value="" style="shape=mxgraph.cisco.routers.ip_telephony_router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270.5" width="78" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="sAgPlpKkdEd6SYgPMzGw-4" value="" style="shape=mxgraph.cisco.switches.voice_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="363" y="280" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sAgPlpKkdEd6SYgPMzGw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.055;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sAgPlpKkdEd6SYgPMzGw-5" target="sAgPlpKkdEd6SYgPMzGw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sAgPlpKkdEd6SYgPMzGw-5" value="" style="shape=mxgraph.cisco.modems_and_phones.ip_phone;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="180" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sAgPlpKkdEd6SYgPMzGw-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sAgPlpKkdEd6SYgPMzGw-6" target="sAgPlpKkdEd6SYgPMzGw-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAgPlpKkdEd6SYgPMzGw-6" value="" style="shape=mxgraph.cisco.modems_and_phones.ip_phone;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="319" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sAgPlpKkdEd6SYgPMzGw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="sAgPlpKkdEd6SYgPMzGw-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
