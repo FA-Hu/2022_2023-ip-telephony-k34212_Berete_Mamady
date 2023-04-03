@@ -1,4 +1,4 @@
-#University: ITMO University
+# University: ITMO University
 
 Faculty: FICT
 
@@ -8,6 +8,6 @@ Year: 2023
 
 Group: K34212
 
-Author: Berete Mamady
+# Author: Berete Mamady
 
-Lab: Lab1
+# Lab: Lab2
